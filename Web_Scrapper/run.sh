@@ -1,0 +1,19 @@
+#!/bin/bash
+scrapy crawl thelearningpoint -o output1.csv
+scrapy crawl thelearningpoint -o output1.csv
+scrapy crawl thelearningpoint -o output1.csv
+scrapy crawl thelearningpoint -o output1.csv
+scrapy crawl thelearningpoint -o output1.csv
+scrapy crawl thelearningpoint -o output1.csv
+scrapy crawl thelearningpoint -o output1.csv
+scrapy crawl thelearningpoint -o output1.csv
+scrapy crawl thelearningpoint -o output1.csv
+scrapy crawl thelearningpoint -o output1.csv
+scrapy crawl thelearningpoint -o output1.csv
+scrapy crawl thelearningpoint -o output1.csv
+scrapy crawl thelearningpoint -o output1.csv
+scrapy crawl thelearningpoint -o output1.csv
+scrapy crawl thelearningpoint -o output1.csv
+scrapy crawl thelearningpoint -o output1.csv
+scrapy crawl thelearningpoint -o output1.csv
+scrapy crawl thelearningpoint -o output1.csv
